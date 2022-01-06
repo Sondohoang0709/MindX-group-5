@@ -1,0 +1,14 @@
+.container { background-color: purple  }
+h1 { display: block ; font-size: 40px; color: white;  margin width: 800px; padding: 24px;  margin-left: 100px  }
+.Products { font-size: 28px;
+            font-family: sans-serif; margin-top:0.35 em ;}
+.card { display: block; padding: 20px; border: 1px solid; border-style: shadow ; border-color: #c9c9c9;  border-radius: 7px; border-shadow: 2px 2px 4px          }
+.card-row { display:shadow; align: center;  }
+img { border-radius: 7px 7px 0 0; margin-bottom: 20px ; max-width: 100%;           }
+.button { background-color: purple; padding:10px; margin-top: 10px;   }
+.content{ cellpadding: 10px;  }
+.box { max-width: 800px; margin-left:auto; margin-right: auto ; padding: 24px;      }
+main { display: block;   }
+em { span: block; background-color:light blue ; border-radius: 4px; padding: 0.25em  ;      }
+footer {  display: block; margin-top: 20px;  }
+  

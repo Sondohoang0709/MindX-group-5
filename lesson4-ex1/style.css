@@ -1,0 +1,8 @@
+h1 { color: red ;   }
+p { font-color: green;
+                        }
+.title { background-color: green;        }
+.uppercase { text-transform: uppercase ;   }
+#article-title { font-family: cursive;        }
+a:hover { back-ground color: yellow;  }
+.border {  border-style: dotted ; }

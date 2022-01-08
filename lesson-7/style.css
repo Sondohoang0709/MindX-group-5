@@ -1,0 +1,425 @@
+.nav {
+  display: flex;
+  width: 100%;
+  padding: 0 10px;
+  justify-content: space-around;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+}
+li {
+  list-style: none;
+}
+.Logo {
+  width: 200px;
+  display: block;
+  color: transparent;
+}
+a {
+  color: black;
+}
+.first-button {
+  display: block;
+  width: 213px;
+  height: 48.32px;
+  border-radius: 10px;
+  background-color: orange;
+}
+
+.header-1 {
+  z-index: 10px;
+  display: flex;
+  max-width: 1440px;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+  margin: 0 auto;
+  padding: 30px 74px 30px 16px;
+  justify-content: space-between;
+  position: fixed;
+  background-color: white;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.Home {
+  width: 42px;
+  height: 20px;
+}
+.Features {
+  width: 42px;
+  font-size: 15px;
+}
+a:hover {
+  background-color: gray;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "DM Sans", sans-serif;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.header_logo {
+  width: 100%;
+}
+ul {
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+
+.content {
+  position: relative;
+  font-size: 1.5rem;
+  height: 20px;
+  padding: 8px 0 0 49px;
+}
+.nav_link {
+  line-height: 1.8rem;
+}
+.item-button {
+  padding-top: 20px;
+  height: 60px;
+  background-color: orange;
+  border-radius: 10px;
+}
+.inside-btn {
+  padding: 19px 56px;
+  height: 22px;
+  font-size: 1.7rem;
+  line-height: 2rem;
+  text-align: center;
+  color: white;
+}
+
+.section-1 {
+  padding-top: 250px;
+}
+.Grow-text {
+  display: block;
+  font-size: 8rem;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  margin-bottom: 30px;
+}
+
+.Grow-content {
+  display: block;
+  font-size: 2rem;
+  color: gray;
+  font-weight: 400px;
+  margin-bottom: 50px;
+  font-family: "Mulish", sans-serif;
+}
+.Grow-btn {
+  display: block;
+
+  background-color: blue;
+  padding-top: 20px;
+
+  width: 213px;
+
+  height: 60px;
+  border-radius: 10px;
+  border-style: shadow;
+}
+.Grow-btn-content {
+  color: white;
+  height: 22px;
+  font-size: 1.7rem;
+
+  padding: 19px 19px;
+  text-align: center;
+  line-height: 2rem;
+}
+
+.small-logo {
+  display: flex;
+  padding: 100px 74px 0 0;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.subcription-index {
+  display: flex;
+  padding: 50px 96px 0 64px;
+  justify-content: space-between;
+}
+.Sub-header {
+  display: block;
+  color: black;
+  font-size: 5rem;
+}
+
+.Sub-content {
+  display: block;
+  color: gray;
+  font-size: 2rem;
+  font-family: "Mulish", sans-serif;
+  font-weight: 400px;
+  width: 459px;
+  margin: 30px 0;
+}
+.Learn-more {
+  color: blue;
+  font-size: 1.7rem;
+}
+.In-depth-metric {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 80px 196px 138px 64px;
+}
+
+.In-depth-content {
+  display: block;
+  font-size: 5rem;
+  line-height: 114%;
+}
+.In-depth-content-2 {
+  display: block;
+  color: gray;
+  font-family: "Mulish", sans-serif;
+  font-size: 2rem;
+  margin: 30px 0;
+  width: 459px;
+}
+.Learn-more {
+  font-size: 2rem;
+}
+.big-card {
+  padding: 0 64px 0 16px;
+  width: 100%;
+}
+
+.card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.card-1 {
+  text-align: center;
+  border-radius: 6px;
+  transition: transform 0.2s ease-out;
+}
+.card-2 {
+  text-align: center;
+  border-radius: 6px;
+  transition: transform 0.2s ease-out;
+}
+
+.card-3 {
+  text-align: center;
+  border-radius: 6px;
+  transition: transform 0.2s ease-out;
+}
+
+.card-content {
+  width: 50%;
+}
+
+.Benchmarks {
+  display: block;
+  font-size: 2.4rem;
+  margin: 20px 0;
+}
+.Pricing {
+  display: block;
+  font-size: 2.4rem;
+  margin: 20px 0;
+}
+.Audit {
+  display: block;
+  font-size: 2.4rem;
+  margin: 20px 0;
+}
+
+.small-content {
+  display: block;
+  color: gray;
+  font-size: 1.6rem;
+  font-family: "Mulish", sans-serif;
+  font-weight: 400px;
+  line-height: 150%;
+}
+.table-4 {
+  padding: 150px 32px 0 16px;
+}
+.price-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.content-4 {
+  display: block;
+  font-size: 6rem;
+  width: ;
+}
+.icon {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+}
+.icon-button {
+  display: block;
+  background-color: blue;
+  color: white;
+  padding: 18px 56px;
+  margin-left: 6px;
+  border-radius: 10px 0 0 10px;
+  font-size: 1.6rem;
+  text-align: center;
+}
+.icon-button-2 {
+  display: block;
+  background-color: white;
+  color: black;
+  padding: 18px 56px;
+  text-align: center;
+  font-size: 1.6rem;
+  border-style: none;
+}
+
+.grid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 82px 42px 158px;
+}
+
+.grid-box {
+  display: block;
+  text-align: center;
+  padding: 34px 0 40px;
+  background-color: lightcyan;
+  border-radius: 10px;
+  transition: transform 0.2s ease-out;
+  width: 330px;
+}
+
+.Free {
+  font-size: 3rem;
+  font-weight: 800;
+  margin: 22px 0 28px;
+}
+.Starter .Premium {
+  font-size: 1.8rem;
+  font-weight: 200;
+  line-height: 156%;
+}
+.grid-content {
+  display: block;
+  color: gray;
+  font-size: 1.7rem;
+  font-weight: 200;
+  line-height: 294%;
+}
+.Start {
+  margin-top: 55px;
+  border-radius: 10px;
+}
+.start-btn {
+  padding: 19px;
+  height: 22px;
+  font-size: 1.7rem;
+  line-height: 2rem;
+  text-align: center;
+
+  color: blue;
+}
+
+.grid-box-2 {
+  display: block;
+  text-align: center;
+  padding: 34px 0 40px;
+  background-color: #ff7143;
+  border-radius: 10px;
+  transition: transform(0.2s ease-out);
+  width: 330px;
+}
+.Premium {
+  color: white;
+}
+.price {
+  font-size: 3rem;
+  font-weight: 800;
+  margin: 22px 0 28px;
+  color: white;
+  width: 20px;
+  padding-left: 20px;
+}
+
+.box-content {
+  display: block;
+  color: lightcyan;
+  font-size: 1.7rem;
+  font-weight: 200;
+  line-height: 294%;
+}
+.btn-2 {
+  padding: 19px;
+  height: 22px;
+  font-size: 1.7rem;
+  line-height: 2rem;
+  text-align: center;
+
+  color: white;
+}
+.final-btn {
+  margin-top: 55px;
+  border-radius: 10px;
+
+  background-color: brown;
+}
+
+.grid-box-3 {
+  display: block;
+  text-align: center;
+  padding: 34px 0 40px;
+  background-color: lightcyan;
+  border-radius: 10px;
+  transition: transform(0.2s ease-out);
+  width: 330px;
+}
+.Enterprise {
+  font-weight: 200;
+  line-height: 156%;
+}
+.price-2 {
+  font-size: 3rem;
+  font-weight: 800;
+  margin: 22px 0 28px;
+  color: black;
+  width: 20px;
+  padding-left: 20px;
+}
+.box-content-2 {
+  display: block;
+  color: gray;
+  font-size: 1.7rem;
+  font-weight: 200;
+  line-height: 294%;
+}
+.final-btn-2 {
+  margin-top: 55px;
+  border-radius: 10px;
+  background-color: lightcyan;
+}
+.button-3 {
+  padding: 19px;
+  height: 22px;
+  font-size: 1.7rem;
+  line-height: 2rem;
+  text-align: center;
+}
+#container {
+  width: 100%;
+}
+.small-content {
+}
